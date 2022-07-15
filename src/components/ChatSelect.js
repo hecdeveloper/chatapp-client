@@ -5,9 +5,9 @@ export const ChatSelect = () => {
         <div className="middle-screen">
             <div className="alert-info">
                 <hr />
-                <h3>Select an user</h3>
+                <h3>Seleccione una persona</h3>
                 <span>
-                  To start a chat
+                    Para comenzar una conversación
                 </span>
 
             </div>
