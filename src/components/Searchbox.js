@@ -9,7 +9,7 @@ export const Searchbox = () => {
             <div className="srch_bar">
                 <div className="stylish-input-group">
                     <button className="btn text-danger">
-                        Salir
+                        Sign Out
                     </button>
                 </div>
             </div>
